@@ -19,7 +19,7 @@ I'm a passionate Full Stack Developer based in France, with a strong background 
 - Projects that involve creative web design and development
 
 ### 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/youssefmhand/)
+- [LinkedIn]((https://www.linkedin.com/in/youssef-mhand/))
 - [Portfolio](https://www.youssefmhand.tech/)
 
 ### 😄 Pronouns
