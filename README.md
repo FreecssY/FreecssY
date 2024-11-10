@@ -22,8 +22,6 @@ I'm a passionate Full Stack Developer based in France, with a strong background 
 - [LinkedIn](https://www.linkedin.com/in/youssef-mhand/)
 - [Portfolio](https://www.youssefmhand.tech/)
 
-### 😄 Pronouns
-- He/Him
 
 ### ⚡ Fun fact
 - I'm also passionate about photography and often combine my tech skills with creative visual design.
